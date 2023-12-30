@@ -41,16 +41,16 @@ Welcome to the Ultimate Chromebook Optimization Script! This script is designed 
 
    Make the script executable.
 
-bash
+```bash
 
 chmod +x script.sh
-
+```
 Run the script with root privileges.
 
-bash
+```bash
 
     sudo ./script.sh
-
+```
     Follow on-screen instructions and reboot your Chromebook after the script execution.
 
 Chrome Flags
