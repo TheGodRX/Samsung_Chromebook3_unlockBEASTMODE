@@ -70,4 +70,4 @@ Caution
 
     Community Support: Engage with the Chrome OS and Linux communities for additional support and advice.
 
-Feel free to customize the script and README according to your specific requirements.
+Feel free to customize the script and ## comment out any commands you are not sure of X_X
