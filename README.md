@@ -38,7 +38,7 @@ Welcome to the Ultimate Chromebook Optimization Script! This script is designed 
 
    ```bash
    wget https://raw.githubusercontent.com/codercoins/Samsung_Chromebook3_unlockBEASTMODE/main/CHROMEBEAST.sh
-```
+``
    Make the script executable.
 
 ```bash
