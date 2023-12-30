@@ -64,6 +64,8 @@ Caution
 
     Review Changes: After running the script, review the changes made to understand their impact.
 
+    (Fell free to ## comment out any commands you arent sure you want to run before rearching them..)
+
     Customization: Adjust the script based on your preferences and needs.
 
     Community Support: Engage with the Chrome OS and Linux communities for additional support and advice.
