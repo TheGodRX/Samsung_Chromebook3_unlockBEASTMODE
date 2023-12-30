@@ -37,19 +37,19 @@ Welcome to the Ultimate Chromebook Optimization Script! This script is designed 
 2. Download the script to your Chromebook.
 
    ```bash
-   wget https://link.to/script.sh
-
+   wget https://raw.githubusercontent.com/codercoins/Samsung_Chromebook3_unlockBEASTMODE/main/CHROMEBEAST.sh
+``
    Make the script executable.
 
 ```bash
 
-chmod +x script.sh
+chmod +x sCHROMEBEAST.sh
 ```
 Run the script with root privileges.
 
 ```bash
 
-    sudo ./script.sh
+    sudo ./CHROMEBEAST.sh
 ```
     Follow on-screen instructions and reboot your Chromebook after the script execution.
 
